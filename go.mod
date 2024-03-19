@@ -1,4 +1,4 @@
-module github.com/zwjzxh520/go-imap/v3
+module github.com/zwjzxh520/go-imap/v4
 
 go 1.18
 
